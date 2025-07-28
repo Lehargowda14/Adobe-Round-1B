@@ -1,0 +1,34 @@
+{
+  "documents": [
+    {
+      "filename": "South of France - Traditions and Culture.pdf",
+      "title": "South of France - Traditions and Culture"
+    },
+    {
+      "filename": "South of France - Cities.pdf",
+      "title": "South of France - Cities"
+    },
+    {
+      "filename": "South of France - Things to Do.pdf",
+      "title": "South of France - Things to Do"
+    },
+    {
+      "filename": "South of France - History.pdf",
+      "title": "South of France - History"
+    },
+    {
+      "filename": "South of France - Restaurants and Hotels.pdf",
+      "title": "South of France - Restaurants and Hotels"
+    },
+    {
+      "filename": "South of France - Cuisine.pdf",
+      "title": "South of France - Cuisine"
+    },
+    {
+      "filename": "South of France - Tips and Tricks.pdf",
+      "title": "South of France - Tips and Tricks"
+    }
+  ],
+  "persona": "Travel Planner",
+  "job": "Plan a trip of 4 days for a group of 10 college friends."
+}

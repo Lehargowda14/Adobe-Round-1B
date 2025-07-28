@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "documents": [
+      {
+        "filename": "South of France - Traditions and Culture.pdf",
+        "title": "South of France - Traditions and Culture"
+      },
+      {
+        "filename": "South of France - Cities.pdf",
+        "title": "South of France - Cities"
+      },
+      {
+        "filename": "South of France - Things to Do.pdf",
+        "title": "South of France - Things to Do"
+      },
+      {
+        "filename": "South of France - History.pdf",
+        "title": "South of France - History"
+      },
+      {
+        "filename": "South of France - Restaurants and Hotels.pdf",
+        "title": "South of France - Restaurants and Hotels"
+      },
+      {
+        "filename": "South of France - Cuisine.pdf",
+        "title": "South of France - Cuisine"
+      },
+      {
+        "filename": "South of France - Tips and Tricks.pdf",
+        "title": "South of France - Tips and Tricks"
+      }
+    ],
+    "persona": "Travel Planner",
+    "job": "Plan a trip of 4 days for a group of 10 college friends.",
+    "processed_at": "2025-07-28T14:40:06.675059Z"
+  },
+  "results": [
+    {
+      "document": "South of France - Cuisine.pdf",
+      "section_title": "Famous Dishes",
+      "importance_rank": 1,
+      "page_number": 3,
+      "refined_text": "Famous Dishes The South of France is home to many iconic dishes that you must try during your visit: • Bouillabaisse: A traditional fish stew from Marseille, made with various types of fish, shellfish, and a flavorful broth seasoned with saﬀron and herbs. Bouillabaisse is typically served with rouille, a garlicky mayonnaise, and crusty bread. The dish is a celebration of the sea and is best enjoyed in a seaside restaurant with a view of the Mediterranean. • Ratatouille: A vegetable stew made with eggplant, zucchini, bell peppers, tomatoes, and onions, seasoned with herbs de Provence. Ratatouille can be served as a main dish or as a side, and it pairs beautifully with grilled meats or fish. The dish is a testament to the region's love for fresh, seasonal produce. • Salade Niçoise: A refreshing salad with tuna, hard-boiled eggs, tomatoes, green beans, olives, and anchovies, dressed with olive oil and vinegar. Salade Niçoise is a perfect example of the Mediterranean diet, which emphasizes fresh vegetables, lean proteins, and healthy fats. It's a light yet satisfying dish that is perfect for a warm summer day. • Socca: A thin, crispy pancake made from chickpea flour, olive oil, and water, typically enjoyed as a street food in Nice. Socca is cooked in a wood-fired oven and is best eaten hot, straight from the oven. It's a simple yet delicious snack that showcases the region's love for humble, rustic dishes. • Cassoulet: A hearty casserole from the Languedoc region, made with white beans, sausage, and duck or pork. Cassoulet is a labor of love, requiring hours of slow cooking to develop its rich, complex flavors. The dish is a comforting and satisfying meal that is perfect for a chilly evening. • Tarte Tropézienne: A dessert from Saint-Tropez, consisting of a brioche filled with a creamy mixture of pastry cream and butter. Tarte Tropézienne is a sweet treat that is perfect for a special occasion or as an indulgent afternoon snack. The dessert was created by a Polish baker in the 1950s and quickly became a favorite among locals and tourists alike.",
+      "sub_sections": [
+        {
+          "title": "Bouillabaisse",
+          "text": "A traditional fish stew from Marseille, made with various types of fish, shellfish, and a flavorful broth seasoned with saﬀron and herbs. Bouillabaisse is typically served with rouille, a garlicky mayonnaise, and crusty bread. The dish is a celebration of the sea and is best enjoyed in a seaside restaurant with a view of the Mediterranean."
+        },
+        {
+          "title": "Ratatouille",
+          "text": "A vegetable stew made with eggplant, zucchini, bell peppers, tomatoes, and onions, seasoned with herbs de Provence. Ratatouille can be served as a main dish or as a side, and it pairs beautifully with grilled meats or fish. The dish is a testament to the region's love for fresh, seasonal produce."
+        },
+        {
+          "title": "Salade Niçoise",
+          "text": "A refreshing salad with tuna, hard-boiled eggs, tomatoes, green beans, olives, and anchovies, dressed with olive oil and vinegar. Salade Niçoise is a perfect example of the Mediterranean diet, which emphasizes fresh vegetables, lean proteins, and healthy fats. It's a light yet satisfying dish that is perfect for a warm summer day."
+        },
+        {
+          "title": "Socca",
+          "text": "A thin, crispy pancake made from chickpea flour, olive oil, and water, typically enjoyed as a street food in Nice. Socca is cooked in a wood-fired oven and is best eaten hot, straight from the oven. It's a simple yet delicious snack that showcases the region's love for humble, rustic dishes."
+        },
+        {
+          "title": "Cassoulet",
+          "text": "A hearty casserole from the Languedoc region, made with white beans, sausage, and duck or pork. Cassoulet is a labor of love, requiring hours of slow cooking to develop its rich, complex flavors. The dish is a comforting and satisfying meal that is perfect for a chilly evening."
+        },
+        {
+          "title": "Tarte Tropézienne",
+          "text": "A dessert from Saint-Tropez, consisting of a brioche filled with a creamy mixture of pastry cream and butter. Tarte Tropézienne is a sweet treat that is perfect for a special occasion or as an indulgent afternoon snack. The dessert was created by a Polish baker in the 1950s and quickly became a favorite among locals and tourists alike."
+        }
+      ]
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Key Historical Sites in Aix-en-Provence",
+      "importance_rank": 2,
+      "page_number": 9,
+      "refined_text": "Key Historical Sites in Aix-en-Provence • Cours Mirabeau: This grand boulevard, lined with plane trees, cafes, and fountains, is the heart of Aix-en-Provence. It is a great place to soak up the city's atmosphere. • Saint-Sauveur Cathedral: This cathedral, built between the 5th and 17th centuries, features a mix of architectural styles, including Romanesque, Gothic, and Baroque. It is known for its beautiful cloister and triptych by Nicolas Froment. • Hôtel de Ville: The town hall of Aix-en-Provence, built in the 17th century, is an elegant building with a beautiful clock tower and an ornate facade. The square in front of the Hôtel de Ville is a lively spot, often hosting markets and events. • Atelier Cézanne: The studio of Paul Cézanne, one of the most famous painters associated with Aix-en-Provence, is preserved as a museum. Visitors can see where Cézanne created many of his masterpieces and gain insight into his artistic process. • Thermal Springs: Aix-en-Provence was originally founded as a Roman spa town due to its thermal springs, which are still in use today at the Thermes Sextius. • Festival d'Aix-en-Provence: An annual opera festival held in July, it is one of the most prestigious opera festivals in Europe.",
+      "sub_sections": [
+        {
+          "title": "Cours Mirabeau",
+          "text": "This grand boulevard, lined with plane trees, cafes, and fountains, is the heart of Aix-en-Provence. It is a great place to soak up the city's atmosphere."
+        },
+        {
+          "title": "Saint-Sauveur Cathedral",
+          "text": "This cathedral, built between the 5th and 17th centuries, features a mix of architectural styles, including Romanesque, Gothic, and Baroque. It is known for its beautiful cloister and triptych by Nicolas Froment."
+        },
+        {
+          "title": "Hôtel de Ville",
+          "text": "The town hall of Aix-en-Provence, built in the 17th century, is an elegant building with a beautiful clock tower and an ornate facade. The square in front of the Hôtel de Ville is a lively spot, often hosting markets and events."
+        },
+        {
+          "title": "Atelier Cézanne",
+          "text": "The studio of Paul Cézanne, one of the most famous painters associated with Aix-en-Provence, is preserved as a museum. Visitors can see where Cézanne created many of his masterpieces and gain insight into his artistic process."
+        },
+        {
+          "title": "Thermal Springs",
+          "text": "Aix-en-Provence was originally founded as a Roman spa town due to its thermal springs, which are still in use today at the Thermes Sextius."
+        },
+        {
+          "title": "Festival d'Aix-en-Provence",
+          "text": "An annual opera festival held in July, it is one of the most prestigious opera festivals in Europe."
+        }
+      ]
+    },
+    {
+      "document": "South of France - History.pdf",
+      "section_title": "Key Historical Sites in Montpellier",
+      "importance_rank": 3,
+      "page_number": 10,
+      "refined_text": "Key Historical Sites in Montpellier • Place de la Comédie: The central square of Montpellier, this bustling area is surrounded by cafes, shops, and the impressive Opéra Comédie. It is a great place to start exploring the city. • Saint-Pierre Cathedral: This Gothic cathedral, built in the 14th century, is known for its imposing facade and twin towers. It is the seat of the Archdiocese of Montpellier. • Promenade du Peyrou: This 17th-century promenade oﬀers stunning views of the city and features the Arc de Triomphe and the Château d'Eau, a beautiful water tower. • Musée Fabre: One of the most important art museums in France, the Musée Fabre houses an extensive collection of European paintings, sculptures, and decorative arts. • University of Montpellier: Founded in 1289, it is one of the oldest universities in the world and has been a center of learning and culture for centuries. • Jardin des Plantes: Established in 1593, it is the oldest botanical garden in France and was created for the study of medicinal plants.",
+      "sub_sections": [
+        {
+          "title": "Place de la Comédie",
+          "text": "The central square of Montpellier, this bustling area is surrounded by cafes, shops, and the impressive Opéra Comédie. It is a great place to start exploring the city."
+        },
+        {
+          "title": "Saint-Pierre Cathedral",
+          "text": "This Gothic cathedral, built in the 14th century, is known for its imposing facade and twin towers. It is the seat of the Archdiocese of Montpellier."
+        },
+        {
+          "title": "Promenade du Peyrou",
+          "text": "This 17th-century promenade oﬀers stunning views of the city and features the Arc de Triomphe and the Château d'Eau, a beautiful water tower."
+        },
+        {
+          "title": "Musée Fabre",
+          "text": "One of the most important art museums in France, the Musée Fabre houses an extensive collection of European paintings, sculptures, and decorative arts."
+        },
+        {
+          "title": "University of Montpellier",
+          "text": "Founded in 1289, it is one of the oldest universities in the world and has been a center of learning and culture for centuries."
+        },
+        {
+          "title": "Jardin des Plantes",
+          "text": "Established in 1593, it is the oldest botanical garden in France and was created for the study of medicinal plants."
+        }
+      ]
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Conclusion",
+      "importance_rank": 4,
+      "page_number": 14,
+      "refined_text": "Conclusion The South of France is home to a diverse array of cities, each with its own unique history, culture, and attractions. From the ancient Roman ruins of Arles and Nîmes to the medieval fortresses of Carcassonne and Avignon, each city oﬀers a glimpse into the rich heritage of the region. Whether you're exploring the vibrant streets of Marseille, the elegant boulevards of Aix-en-Provence, or the charming squares of Montpellier, you'll find a wealth of historical treasures and cultural experiences waiting to be discovered. Use this guide to plan your journey through the South of France and immerse yourself in the fascinating history and culture of this beautiful region."
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "section_title": "Key Attractions",
+      "importance_rank": 5,
+      "page_number": 8,
+      "refined_text": "Key Attractions • Cours Mirabeau: This grand boulevard, lined with plane trees, cafes, and fountains, is the heart of Aix-en-Provence. It is a great place to soak up the city's atmosphere. • Saint-Sauveur Cathedral: This cathedral, built between the 5th and 17th centuries, features a mix of architectural styles, including Romanesque, Gothic, and Baroque. It is known for its beautiful cloister and triptych by Nicolas Froment. • Hôtel de Ville: The town hall of Aix-en-Provence, built in the 17th century, is an elegant building with a beautiful clock tower and an ornate facade. The square in front of the Hôtel de Ville is a lively spot, often hosting markets and events. • Atelier Cézanne: The studio of Paul Cézanne, one of the most famous painters associated with Aix-en-Provence, is preserved as a museum. Visitors can see where Cézanne created many of his masterpieces and gain insight into his artistic process.",
+      "sub_sections": [
+        {
+          "title": "Cours Mirabeau",
+          "text": "This grand boulevard, lined with plane trees, cafes, and fountains, is the heart of Aix-en-Provence. It is a great place to soak up the city's atmosphere."
+        },
+        {
+          "title": "Saint-Sauveur Cathedral",
+          "text": "This cathedral, built between the 5th and 17th centuries, features a mix of architectural styles, including Romanesque, Gothic, and Baroque. It is known for its beautiful cloister and triptych by Nicolas Froment."
+        },
+        {
+          "title": "Hôtel de Ville",
+          "text": "The town hall of Aix-en-Provence, built in the 17th century, is an elegant building with a beautiful clock tower and an ornate facade. The square in front of the Hôtel de Ville is a lively spot, often hosting markets and events."
+        },
+        {
+          "title": "Atelier Cézanne",
+          "text": "The studio of Paul Cézanne, one of the most famous painters associated with Aix-en-Provence, is preserved as a museum. Visitors can see where Cézanne created many of his masterpieces and gain insight into his artistic process."
+        }
+      ]
+    }
+  ]
+}
